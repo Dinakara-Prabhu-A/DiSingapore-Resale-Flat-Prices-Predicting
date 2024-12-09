@@ -35,11 +35,9 @@ This project predicts the resale prices of Singapore flats using historical data
 
 **Screenshot of the Web Application:**
 
-![Web Application Screenshot](path/to/your/web_app_screenshot.png)
+![Web Application Screenshot](report/app-screenshot.png)
 
-**Or a GIF of the Web Application in Action:**
 
-![Web Application GIF](path/to/your/web_app.gif)
 
 
 ### 5. Utilities
