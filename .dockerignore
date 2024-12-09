@@ -1,0 +1,19 @@
+# Ignore the mlflow directory
+mlruns/
+
+# Ignore Python bytecode files
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore git-related files
+.git
+.gitignore
+
+# Ignore environment and log files
+*.env
+*.log
+
+# Ignore any database files
+*.db
