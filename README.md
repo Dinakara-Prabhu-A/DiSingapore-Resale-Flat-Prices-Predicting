@@ -56,14 +56,18 @@ This project predicts the resale prices of Singapore flats using historical data
 After hyperparameter tuning, **KNN Regressor** was selected as the best model with the following parameters:
 - **Number of Neighbors (n_neighbors)**: 3
 
-Performance Metrics:
+#### Performance Metrics:
 - **R² Score**: 0.97
 - **Mean Absolute Error (MAE)**: $20,527.59
 - **Mean Squared Error (MSE)**: $969,087,685.32
 
-**Screenshot of MLflow Results:**
+### Model Performance Comparison
 
-![Best Model Screenshot](path/to/your/image.png)
+#### R&sup2; Score Chart
+![R&sup2; Score Chart](report/r2-score.png)
+
+#### MAE Chart
+![MAE Chart](report/mae.png)
 
 ### MLflow Integration
 - **Experiment Tracking**: Logs hyperparameters, metrics, and models during training for reproducibility.
